@@ -1,0 +1,25 @@
+body {
+  background-color:darkgrey;
+}
+img{
+  border-radius: 5px;
+}
+nav ul {
+   background-color: crimson;
+   border-style: solid;
+   border-width: 2px;
+   padding: 10px;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+nav ul li a {
+  text-decoration: none;
+}
+h1{
+  font-family: 'Kolker Brush', cursive;
+  font-size:40px;
+}
